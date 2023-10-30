@@ -15,7 +15,7 @@ This project is part of the DevChallenges.io website and is a solution to the "B
 
 ## Demo
 
-You can see a live demo of the blog card [here](#).
+You can see a live demo of the blog card [here](https://galileo28.github.io/BlogCard/).
 
 ## How to Use
 
