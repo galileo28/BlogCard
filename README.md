@@ -8,6 +8,7 @@ This challenge is a great way to start with basic HTML and CSS skills. The chall
 - [Overview](#overview)
 - [Demo](#demo)
 - [How to Use](#how-to-use)
+- [Challenge](#challenge)
 
 ## Overview
 
@@ -16,6 +17,11 @@ This project is part of the DevChallenges.io website and is a solution to the "B
 ## Demo
 
 You can see a live demo of the blog card [here](https://galileo28.github.io/BlogCard/).
+
+## Challenge
+
+You can see the blog card challenge [here](https://devchallenges.io/editor/solution/1436).
+
 
 ## How to Use
 
