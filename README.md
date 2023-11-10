@@ -27,4 +27,4 @@ You can see the blog card challenge [here](https://devchallenges.io/editor/solut
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/blog-card.git
+   git clone https://github.com/galileo28/BlogCard.git
